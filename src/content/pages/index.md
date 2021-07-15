@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Simply Readable
 tagline: Awesome Content
-featuredImage: /assets/cone.png
+featuredImage: /assets/bookcycle.png
 cta:
   ctaText: Learn More
   ctaLink: /about
